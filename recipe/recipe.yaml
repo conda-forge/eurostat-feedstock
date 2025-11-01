@@ -38,7 +38,7 @@ about:
   summary: Tools to read data from Eurostat API.
   license: MIT
   license_file: LICENSE.txt
-  repository: https://bitbucket.org/noemicazzaniga/eurostat/src/master/
+  homepage: https://bitbucket.org/noemicazzaniga/eurostat/src/master/
 
 extra:
   recipe-maintainers:
